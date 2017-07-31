@@ -2,6 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 My endeavors learning redux.
 
-Reproduce Redux-React Tutorial Todo List.
+Reproduce Redux-React tutorial TodoList.
+
 Added Features:
-  Delete Todo
+  - Delete Todo
