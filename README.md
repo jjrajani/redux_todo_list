@@ -6,3 +6,4 @@ Reproduce Redux-React tutorial TodoList.
 
 Added Features:
   - Delete Todo
+  - Simple Form
