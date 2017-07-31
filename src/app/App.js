@@ -1,6 +1,6 @@
 import React from 'react';
-import { Footer } from './components';
-import { AddTodo, VisibleTodoList, ContactPage } from './containers';
+import { Footer, ContactPage } from './components';
+import { AddTodo, VisibleTodoList } from './containers';
 
 const App = () => (
   <div>

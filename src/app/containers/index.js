@@ -1,11 +1,11 @@
 import AddTodo from './AddTodo';
 import FilterLink from './FilterLink';
 import VisibleTodoList from './VisibleTodoList';
-import ContactPage from './ContactPage';
+import ContactForm from './ContactForm';
 
 export {
   AddTodo,
-  ContactPage,
+  ContactForm,
   FilterLink,
   VisibleTodoList,
 }

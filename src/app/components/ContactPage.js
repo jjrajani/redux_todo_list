@@ -1,5 +1,5 @@
 import React from 'react';
-import { ContactForm } from '../components';
+import { ContactForm } from '../containers';
 
 export default class ContactPage extends React.Component {
   submit = (values) => {

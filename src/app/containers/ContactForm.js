@@ -5,7 +5,6 @@ let ContactForm = props => {
   const { handleSubmit } = props;
   return (
     <form onSubmit={ handleSubmit }>
-      { /* Form Body */}
       <div>
         <label htmlFor='firstName'>First Name</label>
         <Field name="firstName" component="input" type="text" />
